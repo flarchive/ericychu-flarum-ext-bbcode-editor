@@ -1,0 +1,29 @@
+{
+    "name": "ericychu/flarum-ext-bbcode-editor",
+    "description": "BBCode WYSIWYG Editor for Flarum.",
+    "authors": [
+        {
+            "name": "Eric Chu",
+            "email": "ericchu@acgn.io"
+        }
+    ],
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^0.1.0-beta.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "EricYChu\\BBCodeEditor\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "BBCode WYSIWYG Editor",
+            "icon": {
+                "name": "pencil",
+                "backgroundColor": "#2e3436",
+                "color": "#eeeeec"
+            }
+        }
+    }
+}
