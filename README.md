@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ericychu/flarum-ext-bbcode-editor.** Not for installation: use [Packagist](https://packagist.org/packages/ericychu/flarum-ext-bbcode-editor) or the [upstream repository](https://github.com/EricYChu/flarum-ext-bbcode-editor).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7.3`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7.3) · Flarum: `^0.1.0-beta.7`
+**4** versions archived · Latest: [`v0.1.0-beta.7.3`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7.3) · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.7` | 2018-09-25 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.7.1` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7.1) |
+| `v0.1.0-beta.7.2` | 2018-09-28 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7.2) |
+| `v0.1.0-beta.7.3` | 2018-09-28 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-editor/tree/archive/v0.1.0-beta.7.3) |
 
 Catalog entry: [packages/ericychu-flarum-ext-bbcode-editor.json](https://github.com/flarchive/archive-index/blob/main/packages/ericychu-flarum-ext-bbcode-editor.json)
 
